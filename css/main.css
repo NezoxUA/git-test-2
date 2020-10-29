@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #000;
+	color: aqua;
+	font: 16px Tahoma, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0px 20px 0px;
+}
+p {
+	text-align: center;
+}
